@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Dec 18 20:22:12 2021
+# Process ID: 539323
+# Current directory: /home/danny/Documents/code/vivado/decoder_3to8/decoder_3to8.runs/synth_1
+# Command line: vivado -log decoder_3to8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder_3to8.tcl
+# Log file: /home/danny/Documents/code/vivado/decoder_3to8/decoder_3to8.runs/synth_1/decoder_3to8.vds
+# Journal file: /home/danny/Documents/code/vivado/decoder_3to8/decoder_3to8.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source decoder_3to8.tcl -notrace

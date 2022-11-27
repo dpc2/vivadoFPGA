@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35ticsg324-1L" LaunchTime="1639455254">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-SYSDEF" Name="blinkySwitch.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="blinkySwitch.ltx"/>
+  <File Type="BG-BGN" Name="blinkySwitch.bgn"/>
+  <File Type="NPI_FILE" Name="blinkySwitch.npi"/>
+  <File Type="BG-DRC" Name="blinkySwitch.drc"/>
+  <File Type="RNPI_FILE" Name="blinkySwitch.rnpi"/>
+  <File Type="CFI_FILE" Name="blinkySwitch.cfi"/>
+  <File Type="RCFI_FILE" Name="blinkySwitch.rcfi"/>
+  <File Type="PDI-FILE" Name="blinkySwitch.pdi"/>
+  <File Type="BITSTR-MMI" Name="blinkySwitch.mmi"/>
+  <File Type="BITSTR-BMM" Name="blinkySwitch_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="blinkySwitch.nky"/>
+  <File Type="BITSTR-RBT" Name="blinkySwitch.rbt"/>
+  <File Type="BITSTR-MSK" Name="blinkySwitch.msk"/>
+  <File Type="RBD_FILE" Name="blinkySwitch.rbd"/>
+  <File Type="BG-BIN" Name="blinkySwitch.bin"/>
+  <File Type="BG-BIT" Name="blinkySwitch.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="blinkySwitch_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="blinkySwitch_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="blinkySwitch_bus_skew_postroute_physopted.rpt"/>
+  <File Type="RDI-RDI" Name="blinkySwitch.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="blinkySwitch_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="blinkySwitch_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="blinkySwitch_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="blinkySwitch_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="blinkySwitch_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="blinkySwitch_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="blinkySwitch_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="blinkySwitch_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="blinkySwitch_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="blinkySwitch_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="blinkySwitch_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="blinkySwitch_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="blinkySwitch_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="blinkySwitch_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="blinkySwitch_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="blinkySwitch_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="blinkySwitch_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="blinkySwitch_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="blinkySwitch_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="blinkySwitch_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="blinkySwitch_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="blinkySwitch_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="blinkySwitch_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="blinkySwitch_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="blinkySwitch_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="blinkySwitch_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="blinkySwitch_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="blinkySwitch_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="blinkySwitch_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="blinkySwitch_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="blinkySwitch_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="blinkySwitch_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="blinkySwitch_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="blinkySwitch_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="blinkySwitch_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="blinkySwitch_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="blinkySwitch_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="blinkySwitch_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="blinkySwitch_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="blinkySwitch_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="blinkySwitch_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="blinkySwitch_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="blinkySwitch_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="blinkySwitch.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="blinkySwitch_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="blinkySwitch_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="blinkySwitch_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="blinkySwitch_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="blinkySwitch_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="blinkySwitch_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="blinkySwitch_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="blinkySwitch.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/blinkySwitch.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="blinkySwitch"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/digilent-xdc-master/Arty-A7-35-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Vivado/Background/digilent-xdc-master/Arty-A7-35-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1628606177"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
